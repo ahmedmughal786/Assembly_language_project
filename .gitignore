@@ -1,0 +1,6 @@
+*.obj
+*.exe
+*.bin
+*.lst
+*.map
+.DS_Store
